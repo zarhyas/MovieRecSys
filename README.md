@@ -1,1 +1,1 @@
-# recsys_workshop
+# MovieRecSys
